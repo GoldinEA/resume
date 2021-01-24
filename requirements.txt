@@ -53,7 +53,7 @@ ptyprocess==0.5.2
 pycurl==7.43.0
 PyDocX==0.9.10
 Pygments==2.2.0
-PyInstaller==3.2.1
+PyInstaller==3.6
 pylint==1.7.2
 pyparsing==2.2.0
 PyQt5==5.9
