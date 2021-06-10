@@ -9,7 +9,7 @@ cssselect==1.0.1
 cycler==0.10.0
 decorator==4.1.2
 defusedxml==0.5.0
-Django==1.11.29
+Django==2.2.24
 docxpy==0.8.5
 Elements==0.2.0
 entrypoints==0.2.3
